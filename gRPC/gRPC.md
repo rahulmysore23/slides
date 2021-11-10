@@ -29,7 +29,6 @@ styles:
 - Server streaming RPC
 - Client streaming RPC
 - Bidirectional streaming RPC 
-- Few Common questions
 
 # Intro to gRPC
 
