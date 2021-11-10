@@ -192,7 +192,8 @@ fmt.Println(sum)
 type person struct {
     name string
     age  int
-}```
+}
+```
 
 - Create an instance of struct
 - Access values using the dot (.) operator
@@ -232,7 +233,7 @@ func main() {
     
     fmt.Println(p)
     
-    p = p.setDefaultValues()
+    p.setDefaultValues()
     
     fmt.Println(p)
 }
@@ -261,7 +262,7 @@ func main() {
     
     fmt.Println(p)
     
-    p = p.setDefaultValues()
+    p.setDefaultValues()
     
     fmt.Println(p)
 }
